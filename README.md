@@ -13,4 +13,4 @@ REST API for managing books using Node.js and Express.
 - DELETE /books/:id: Delete a book
 
 ## Notes
-POST, PUT, DELETE may return 404 due to [add your issue, e.g., URL typo]. Working on fixing.
+POST, PUT, DELETE may return 404 due to some issues . Working on fixing.
